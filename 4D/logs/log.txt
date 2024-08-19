@@ -1,0 +1,26 @@
+
+(Disp) 232 - 12:24:46 > Basic functions defined and imports completed 
+
+(Disp) 232 - 12:24:46 > Space limits defined 
+
+(Disp) 232 - 12:24:46 > Begin solving for system... 
+
+(Disp) 232 - 12:24:53 > Finish solving for system in time 6.935765266418457 seconds 
+
+(Disp) 232 - 12:24:53 > Graphs are being generated... 
+
+(Disp) 232 - 12:24:53 > On iteration number 0/100 
+
+(Disp) 232 - 12:25:4 > Basic functions defined and imports completed 
+
+(Disp) 232 - 12:25:4 > Space limits defined 
+
+(Disp) 232 - 12:25:4 > Begin solving for system... 
+
+(Disp) 232 - 12:25:8 > Finish solving for system in time 4.18562388420105 seconds 
+
+(Disp) 232 - 12:25:8 > Graphs are being generated... 
+
+(Disp) 232 - 12:25:8 > On iteration number 0/100 
+
+(Disp) 232 - 12:25:31 > Graphs finish rendering. END 
